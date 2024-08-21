@@ -1,5 +1,12 @@
 ### Olá!, Eu sou o Ricardo Oliveira ☕
 
+#
+
+<p align="center">Formado em Análise e Desenvolvimento de Sistemas. Atualmente estudo Java.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
+
 [![intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo.zell/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-elias-rocha-oliveira-7b283b155/)
 
