@@ -1,8 +1,7 @@
-### Olá!, Eu sou o Ricardo Oliveira ☕
+<div align="center"> <h3> Olá!, Eu sou o Ricardo Oliveira ☕ </h3>
 
 
-<p align="center">Formado em Análise e Desenvolvimento de Sistemas. Atualmente estudo Java.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Sou formado em Análise e Desenvolvimento de Sistemas, Atualmente estudo Java. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 <img align="right" alt="" height="190px" src="./src/study.gif">
